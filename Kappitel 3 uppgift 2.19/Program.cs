@@ -9,7 +9,7 @@ namespace ____
             Console.WriteLine("Skriv en addition eller en subtraktion");
             string tal = Console.ReadLine();
             
-            //Console.WriteLine(" ");
+            
 
             string[] input2 = tal.Split('+', '-');
 
